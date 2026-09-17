@@ -1,4 +1,4 @@
-# Project Latitude
+#  Project Latitude
 
 > **Irregular income doesn't mean irregular creditworthiness.**
 
